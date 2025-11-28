@@ -7,10 +7,7 @@ This repository contains my Tableau Hospitality Analytics Dashboard, designed to
 The project demonstrates my skills in interactive dashboard design, calculated fields, visual analytics, data blending, and storytelling with data.
 
 🔗 LinkedIn Project Post
-
-View my Tableau dashboard showcase here:
-👉 Tableau Dashboard on LinkedIn
-
+https://www.linkedin.com/posts/s-sreedhar-gowd-89bb3b258_tableau-dataanalytics-dashboarddesign-activity-7400172277461524480-lhQT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-HRjcBQrpNXkdwKDfDBVKPaRrlSGFI0M4
 📘 Project Overview
 
 This dashboard provides a comprehensive view of hospitality business performance with fully interactive filters and multi-level insights.
