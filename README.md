@@ -8,6 +8,8 @@ The project demonstrates my skills in interactive dashboard design, calculated f
 
 🔗 LinkedIn Project Post
 https://www.linkedin.com/posts/s-sreedhar-gowd-89bb3b258_tableau-dataanalytics-dashboarddesign-activity-7400172277461524480-lhQT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-HRjcBQrpNXkdwKDfDBVKPaRrlSGFI0M4
+
+
 📘 Project Overview
 
 This dashboard provides a comprehensive view of hospitality business performance with fully interactive filters and multi-level insights.
@@ -25,6 +27,7 @@ Study booking platform behavior
 
 Make data-driven decisions with interactive visuals
 
+
 📈 Key Features
 ✔ Dashboard 1 – Overview
 
@@ -40,6 +43,7 @@ Room class vs booking status treemap
 
 Dynamic filters for city, property, class, platform, week, and status
 
+
 ✔ Dashboard 2 – Detailed Analysis
 
 Weekly Revenue Trend
@@ -52,7 +56,8 @@ Room Class Revenue Distribution
 
 Interactive slicers for deep drill-down
 
-🛠 Tech Stack Used
+
+🛠 Tech Stack Used:
 
 Tableau Desktop
 
@@ -74,6 +79,7 @@ Advanced charts: Donut, Lollipop, Treemap, Bubble, Line Chart
 │     ├── Dashboard_Overview.png
 │     ├── Dashboard_Detail.png
 
+
 🚀 Insights Delivered
 
 Strongest revenue contribution from metro cities
@@ -85,6 +91,7 @@ Weekday occupancy significantly higher than weekends
 Cancellations impact conversion and overall occupancy
 
 Property-level comparison reveals clear performance gaps
+
 
 🙌 About Me
 
